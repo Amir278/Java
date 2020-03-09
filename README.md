@@ -1,2 +1,2 @@
 # Java
-Solving Problems from JavaRush Course
+Solving Problems from Java Course
